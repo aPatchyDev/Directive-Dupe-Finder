@@ -9,4 +9,10 @@ It does not even differentiate plain text from source code.
 Therefore, you must review each search result to check whether they are actually redundant or not.
 
 ### Usage
+
 `./search.py <path to project root>`
+
+### Example use case
+
+- Contribution to OpenSSL: https://github.com/openssl/openssl/pull/18220
+- Contribution to Uftrace: https://github.com/namhyung/uftrace/pull/1481
